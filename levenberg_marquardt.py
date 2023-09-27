@@ -20,8 +20,8 @@
 # ==============================================================================
 
 import tensorflow as tf
-from keras.engine import data_adapter
-from keras.engine import compile_utils
+from tf.python.keras.engine import data_adapter
+from tf.python.keras.engine import compile_utils
 
 # ==============================================================================
 
